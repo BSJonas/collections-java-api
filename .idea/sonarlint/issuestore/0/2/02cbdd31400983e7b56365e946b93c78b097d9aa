@@ -1,0 +1,13 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëô»Ú8İÎÎù‡2J$858d182f-093c-4c0a-9d3d-3f1cac4997e9
+
+java:S1192B"[Define a constant instead of duplicating this literal "O total de compras Ã© de: " 3 times.(íàâs8ßÎÎù‡2J$e0de758a-7186-4cf6-be33-137ab1b66069
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ÇŸÔÿøÿÿÿÿ8äÎÎù‡2J$6b198f97-2e78-4928-b71a-cead165fa4d0
+r	java:S1060"+Replace this use of System.out by a logger.(¬õÕ±ûÿÿÿÿ8æÎÎù‡2J$fbd246ab-3f00-4aa0-903e-f2704158ede1
+r	java:S1063"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8æÎÎù‡2J$26406da4-e9be-4d33-944c-80a701b23afb
+r	java:S106@"+Replace this use of System.out by a logger.(ŒÇ©Ñÿÿÿÿÿ8çÎÎù‡2J$7c06633b-06c7-4dda-812a-34334f844a0d
+l	java:S106B"+Replace this use of System.out by a logger.(íàâs8çÎÎù‡2J$084c81d2-08a5-44e9-9569-bc3fbbc10be3
+r	java:S106E"+Replace this use of System.out by a logger.(úÓ¯åøÿÿÿÿ8èÎÎù‡2J$4c88aab3-27b8-4461-898f-5123d87272d2
+l	java:S106G"+Replace this use of System.out by a logger.(íàâs8èÎÎù‡2J$15e71c0e-a134-43e0-9334-58c76543010c
+m	java:S106J"+Replace this use of System.out by a logger.(Æ”÷¦8èÎÎù‡2J$f0ba921c-2346-4382-b6e8-8df36d359719
+l	java:S106L"+Replace this use of System.out by a logger.(íàâs8èÎÎù‡2J$0cf6c98f-7bc9-4ed3-9ff6-01fd8b2d1b40
