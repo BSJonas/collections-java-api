@@ -36,8 +36,7 @@ public class CarrinhoDeCompras {
 	}
 
 	public double calcularValorTotal(){
-		double total = getTotal();
-		return total;
+		return getTotal();
 	}
 
 	private double getTotal() {
