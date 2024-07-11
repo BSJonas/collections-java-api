@@ -1,6 +1,4 @@
 
-=
-src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
 U
 %src/list/OperacoesBasicas/Tarefa.java,e\4\e4ce9255d71186bf85f7b0df6f4fa189e7f198c5
 Z
@@ -11,3 +9,21 @@ h
 +src/list/OperacoesBasicas/Compras/Item.java,6\0\60a76e18dd2655f4bf741946806925fa479b1c73
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+]
+-src/list/OperacoesBasicas/Catalogo/Livro.java,4\b\4b1340cecabbbe0ba5d84339b3fafc3d4d299714
+f
+6src/list/OperacoesBasicas/Catalogo/CatalogoLivros.java,9\0\905e9370da06078efa34b9626747f7ad318c1412
+m
+=src/list/OperacoesBasicas/OperacaoMatematica/SomaNumeros.java,f\0\f0e4fc67b5cccc247a30dbab2a05f01d2abaa9f9
+_
+/src/list/OperacoesBasicas/Ordenacao/Pessoa.java,a\6\a62b3c515870e11d21d962e95ae7ec0d54e3521b
+i
+9src/list/OperacoesBasicas/Ordenacao/OrdenacaoPessoas.java,2\b\2b1e69b4bd4e409254d10e810415eca8291c7a53
+r
+Bsrc/list/OperacoesBasicas/OperacaoMatematica/OrdenacaoNumeros.java,0\3\03c484a19f1a9975d045e13185562572fea85606
+d
+4src/list/OperacoesBasicas/Ordenacao/SomaNumeros.java,f\5\f534e1abc9733c321207ca79352e238fc88773ac
+]
+-src/list/OperacoesBasicas/ToDo/Convidado.java,9\6\96f4d611e8d809d813e35ca402a051177b1870ed
+f
+6src/list/OperacoesBasicas/ToDo/ConjuntoConvidados.java,e\0\e0564964a9d6bb24ca43f60e14b1e7bd3f9ce21a
